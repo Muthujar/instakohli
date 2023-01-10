@@ -1,0 +1,16 @@
+.thumbnail {
+  flex-wrap: wrap;
+}
+.taxt1 {
+  font-size: 12px;
+  font-weight: 500;
+}
+.taxt2 {
+  font-size: 12px;
+}
+.taxt3 {
+  font-size: 12px;
+}
+.opac {
+  opacity: 50%;
+}

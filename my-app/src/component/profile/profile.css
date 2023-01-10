@@ -1,0 +1,33 @@
+.propic {
+  margin-left: 150px;
+  height: 150px;
+}
+.pro1 {
+  margin-left: 20px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 500;
+  padding: 3px 12px;
+}
+.pro2 {
+  margin-left: 20px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 500;
+  padding: 3px 12px;
+}
+.tag {
+  font-size: 14px;
+}
+.decor {
+  text-decoration: none;
+  color: rgb(29, 29, 77);
+}
+.decor:hover {
+  text-decoration: underline;
+}
+
+.imgy {
+  width: 20px;
+  margin-left: 5px;
+}
